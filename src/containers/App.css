@@ -1,0 +1,20 @@
+@font-face {
+font-family: 'Speed+';
+font-style: normal;
+font-weight: normal;
+src: local('Speed+'), url('speed+.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Speed+2';
+font-style: normal;
+font-weight: normal;
+src: local('Speed+2'), url('speed+2.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Speed+';
+	font-weight: 200;
+	color: #41CDBC;
+}
